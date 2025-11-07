@@ -31,9 +31,7 @@
 
 
 
-### 🤝 Connect with me
-
-Sosyal medya hesaplarını ekle.
+### 🤝 My other Accounts
 
 <p align="center">
   <a href="https://linkedin.com/in/bcdaric">
