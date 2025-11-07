@@ -7,7 +7,6 @@
 
 ### 🛠️ Languages and Tools
 
-Bu bölüm için [shields.io](https://shields.io/) veya [devicons](https://devicon.dev/) sitesinden sevdiğin teknolojilerin logolarını ekleyebilirsin.
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
