@@ -20,6 +20,9 @@ Untitled FPS
   <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="csharp" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
   <a href="https://unity.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/unity/white" alt="unity" height="40" />
   </a>
@@ -35,11 +38,10 @@ Untitled FPS
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
-   <a href="https://angular.dev" target="_blank" rel="noreferrer">
+  <a href="https://angular.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/maartentibau/angular-logos/master/logos/prime-ng.svg" alt="primeng" width="40" height="40"/>
   </a>
 </p>
-
 
 
 <h3 align="center"> Other Accounts</h3> 
