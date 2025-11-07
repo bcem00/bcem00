@@ -8,7 +8,7 @@ VectorBird
 Untitled FPS
 
 
-<h1 align="center"><a link="href= "https://drive.google.com/file/d/1e_pKuJeFXqzs2m7is1tTq-0OBCOG7sYJ/view?usp=drivesdk" align="center">"My Resume </a></h1>
+<h1 align="center"><a href= "https://drive.google.com/file/d/1e_pKuJeFXqzs2m7is1tTq-0OBCOG7sYJ/view?usp=drivesdk" align="center">My Resume </a></h1>
 
 
 <h3 align="center"> 🛠️ Languages and Tools</h3> 
