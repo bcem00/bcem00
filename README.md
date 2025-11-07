@@ -30,7 +30,7 @@
    <a href="https://learn.microsoft.com/tr-tr/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="git" width="40" height="40"/>
      <a href="https://angular.dev" target="_blank" rel="noreferrer">
-    <img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAngular_full_color_logo.svg&psig=AOvVaw0spyuc1_IIzYpUK8GZreNc&ust=1762628035624000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCLDL0Lbb4JADFQAAAAAdAAAAABAE" alt="git" width="40" height="40"/>
 
 
 
