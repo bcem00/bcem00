@@ -33,7 +33,7 @@
 
 
 
-### My other Accounts
+### Other Accounts
 
 <p align="center">
   <a href="https://linkedin.com/in/bcdaric">
