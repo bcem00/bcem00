@@ -27,12 +27,7 @@
      <a href="https://angular.dev" target="_blank" rel="noreferrer">
     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AAngular_full_color_logo.svg&psig=AOvVaw0spyuc1_IIzYpUK8GZreNc&ust=1762628035624000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCLDL0Lbb4JADFQAAAAAdAAAAABAE" alt="git" width="40" height="40"/>
 
-
-
-    
-
-
-     
+   
   </a>
 
   
