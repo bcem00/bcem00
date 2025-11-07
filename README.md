@@ -31,7 +31,7 @@
 
 
 
-### 🤝 My other Accounts
+### My other Accounts
 
 <p align="center">
   <a href="https://linkedin.com/in/bcdaric">
