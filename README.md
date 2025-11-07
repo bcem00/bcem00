@@ -29,23 +29,7 @@
   </a>
 </p>
 
----
 
-### 📊 My GitHub Stats
-
-Bu istatistiklerin çalışması için `[KULLANICI-ADIN]` yazan yeri kendi GitHub kullanıcı adınla değiştirmeyi unutma!
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=[KULLANICI-ADIN]&show_icons=true&theme=dark&locale=en" alt="[Adın]'s GitHub Stats" />
-  </a>
-  <br><br>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[KULLANICI-ADIN]&layout=compact&theme=dark&locale=en" alt="[Adın]'s Top Languages" />
-  </a>
-</p>
-
----
 
 ### 🤝 Connect with me
 
