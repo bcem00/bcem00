@@ -12,7 +12,6 @@ DnD
 DOJO: undead (Out Now!)
 
 
-<iframe frameborder="0" src="https://itch.io/embed/4579305" width="552" height="167"><a href="https://bcem00.itch.io/dojo-undead">DOJO: undead by bcem00</a></iframe>
 
 
 <h1 align="center"><a href= "https://drive.google.com/file/d/1e_pKuJeFXqzs2m7is1tTq-0OBCOG7sYJ/view?usp=drivesdk" align="center">My Resume </a></h1>
