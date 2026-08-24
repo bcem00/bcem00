@@ -15,7 +15,7 @@ TennisTogether
 <h1 align="center"><a href= "https://drive.google.com/file/d/17EDXTg0gQYJx_6xfMUNUf5SGlxS9q6C_/view?usp=drive_link" align="center">My Resume </a></h1>
 
 
-<h3 align="center"> 🛠️ Languages and Tools</h3> 
+<h3 align="center"> 🛠️ Tech Stack</h3> 
 
 <p align="center">
   <a href="https://www.c-language.org" target="_blank" rel="noreferrer">
