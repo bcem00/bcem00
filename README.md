@@ -9,7 +9,7 @@ TennisTogether
 <br></br>
 <a href="https://bcem00.itch.io/dnd">DnD </a>
 <br></br>
-<a href="https://bcem00.itch.io/dojo-undead">DOJO: undead </a>(Out Now!)
+<a href="https://bcem00.itch.io/dojo-undead">DOJO: undead </a>
 
 
 <h1 align="center"><a href= "https://drive.google.com/file/d/17EDXTg0gQYJx_6xfMUNUf5SGlxS9q6C_/view?usp=drive_link" align="center">My Resume </a></h1>
