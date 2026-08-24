@@ -12,7 +12,7 @@ TennisTogether
 <a href="https://bcem00.itch.io/dojo-undead">DOJO: undead </a>(Out Now!)
 
 
-<h1 align="center"><a href= "https://drive.google.com/file/d/1e_pKuJeFXqzs2m7is1tTq-0OBCOG7sYJ/view?usp=drivesdk" align="center">My Resume </a></h1>
+<h1 align="center"><a href= "https://drive.google.com/file/d/17EDXTg0gQYJx_6xfMUNUf5SGlxS9q6C_/view?usp=drive_link" align="center">My Resume </a></h1>
 
 
 <h3 align="center"> 🛠️ Languages and Tools</h3> 
