@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Engineer from Turkey.</h3>
 
 
-## Current Projects
+## Projects
 VectorBird
 <br></br>
 TennisTogether
