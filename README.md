@@ -1,5 +1,5 @@
 <h1 align="center">The name's Cem. Berjan Cem. </h1>
-<h3 align="center">A passionate Computer Engineer from Turkey.</h3>
+<h3 align="center">A passionate Computer Engineer/Game Dev from Turkey.</h3>
 
 
 ## Projects
